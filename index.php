@@ -189,12 +189,12 @@ text-align: justify;
 </div>
   <strong>
 <font size="4px"><ul id="ul1" >
-  <a href="http://localhost/subh/mail/homepage.php"><li>HOME</li></a>
-<a href="http://localhost/subh/search.php"><li>SEARCH</li></a>
-<a href="http://localhost/subh/feedback.php"><li>FEEDBACK</li></a>&nbsp&nbsp
-<a href="http://localhost/subh/about.php"><li>ABOUT</li></a>
-<a href="http://localhost/subh/login.php"><li>SIGN UP</li></a>
-<a href="http://localhost/subh/MESSAGE.php"><li>ADMIN </li></a>
+  <a href="index.php"><li>HOME</li></a>
+<a href="search.php"><li>SEARCH</li></a>
+<a href="feedback.php"><li>FEEDBACK</li></a>&nbsp&nbsp
+<a href="about.php"><li>ABOUT</li></a>
+<a href="login.php"><li>SIGN UP</li></a>
+<a href="MESSAGE.php"><li>ADMIN </li></a>
 
 
 </ul>
