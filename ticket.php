@@ -43,7 +43,7 @@ PAN NO. :&nbsp<input type="number" name="pan"><br><br></font>
 
 </html>
 <?php
-include_once('tcpdf/tcpdf.php');
+include_once('tcpdf.php');
 if (isset($_POST['submit']) ) {
 // create new PDF document
 $pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
