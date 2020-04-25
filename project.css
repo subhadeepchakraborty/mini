@@ -1,0 +1,195 @@
+body
+{
+margin-left: 15%;
+margin-right: 15%;
+
+
+}
+#image
+{
+
+border: 1px solid black;
+width:890px;
+height:440px;
+overflow: hidden;
+animation-name: slide-up forward;
+animation-duration: 5s;
+}
+#slider-block
+{
+
+margin-top: 100px;
+height: 450px;
+width:parent;
+border:2px solid black;
+
+}
+h1
+{
+background-color: red;
+width: parent;
+}
+#menu-block
+{
+height: 150px;
+width:parent;
+border:1px dotted black;
+}
+
+#img-block
+{
+height:100px;
+width:100px;
+margin-left: 20px;
+border:1px solid red;
+float:left;
+
+}
+#logo{
+margin-top: 20px;
+
+
+}
+#ul1 li
+{
+display:inline-block;
+border:1px solid blue;
+margin: 10px;
+width: 82px;
+height: 20px;
+text-align: center;
+background-color:white;
+border-radius: 20%;
+text-decoration: underline;
+text-decoration-style: solid;
+}
+#nav
+{
+margin-top: 70px;
+margin-right: 20px;
+height: 40px;
+float:right;
+width:70%;
+
+}
+
+#video-block
+{ padding-top: 40px;
+width:300px;
+margin-top: 20px;
+height:200px;
+border:3px dashed blue;
+}
+#types
+{
+  height: 450px;
+  width:parent;
+}
+#G1
+{
+text-align: center;
+  overflow-y: scroll;
+float:left;
+font-size: 20px;
+
+height: 400px;
+width:300px;
+border: 2px solid black;
+}
+#G2
+{
+text-align: center;
+overflow-y: scroll;
+float:left;
+font-size: 20px;
+margin-left:74px;
+height: 400px;
+width:300px;
+border: 2px solid black;
+}
+#G3
+{
+float:left;
+text-align: center;
+  overflow-y: scroll;
+font-size: 20px;
+margin-left:74px;
+height: 400px;
+width:300px;
+border: 2px solid black;
+}
+#G4
+{
+float:left;
+
+margin-top: 50px;
+text-align: center;
+  overflow-y: scroll;
+font-size: 20px;
+height: 400px;
+width:300px;
+border: 2px solid black;
+}
+#G5
+{
+float:left;
+margin-top: 50px;
+text-align: center;
+  overflow-y: scroll;
+font-size: 20px;
+margin-left:74px;
+height: 400px;
+width:300px;
+border: 2px solid black;
+}
+#G6
+{
+float:left;
+
+margin-top: 50px;
+text-align: center;
+  overflow-y: scroll;
+font-size: 20px;
+margin-left:74px;
+height: 400px;
+width:300px;
+border: 2px solid black;
+}
+
+ol
+{
+text-align: left;
+
+}
+#about
+{
+width:parent;
+margin-top: 550px;
+font-size:18px;
+font-style: bold;
+text-align: justify;
+font-family: sans-serif;
+}
+
+.contact
+{
+width:parent;
+height:300px;
+margin-top: 60px;
+margin-left: 20%;
+
+}
+
+#submit
+{
+  width:100px;
+
+
+}
+
+input
+{
+width:500px;
+margin-top: 15px;
+
+}
