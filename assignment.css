@@ -1,0 +1,133 @@
+body
+{
+  margin-left: 10%;
+}
+#head
+{
+width: 80%;
+height: 40px;
+}
+img{float:left;
+height:50px;
+width:20%;
+}
+#splash
+{
+width:440px;
+height:300px;
+align-items: center;
+
+
+}
+#call
+{
+width:380px;
+height:300px;
+align-items: center;
+}
+
+#righthead
+{
+width:parent;
+height:25px;
+}
+ul
+{
+list-style:none;
+margin: 0px;
+margin-top: 70px;
+}
+
+li
+{
+  padding: 12px;
+
+display: inline-block;
+width:77px;
+height:20px;
+}
+#headdown
+{
+  height:400px;
+width: parent;
+margin: 0px;
+
+}
+
+#left
+{
+height:400px;
+width:50%;
+float:left;
+text-align: left;
+
+}
+input[type="button"]
+{
+height:60px;
+padding: 30px;
+border-radius: 20px;
+background-color:  #add8e6;
+color: white;
+}
+#green:hover
+{
+background-color:#90ee90;
+
+}
+
+#right
+{
+height:400px;
+width:49%;
+float:left;
+
+}
+p
+{
+  padding-top: 10px;
+  border-radius:10px;
+  height: 40px;
+  text-align: left;
+}
+button
+{
+  border-radius:7px;
+  width:116px;
+  height: 25px;
+  background-color: #add8e6;
+ font-size:9px;
+ text-align: left;
+
+}
+#checked
+{
+width:50px;
+height:50px;
+
+}
+#line
+{
+text-align: left;
+font-size: 20px;
+}
+#bottom
+{ margin-top:3000px;
+width:100%;
+height:400px;
+
+}
+#ma {
+  width:100%;
+
+}
+footer
+{
+width:1200px;
+}
+li:hover
+{
+background-color: #add8e6;
+color: white;
+
+}
