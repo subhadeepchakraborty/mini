@@ -71,7 +71,7 @@ margin-left: 520px;
 }
 </style>
 <body >
-  <b><a style="float:left; font-size:30px; font-color:blue;" href="http://localhost/subh/mail/homepage.php">HOME</a></b><br>
+  <b><a style="float:left; font-size:30px; font-color:blue;" href="index.php">HOME</a></b><br>
 
 <div id="about">
 <center><h1>About Us</h1></center>
