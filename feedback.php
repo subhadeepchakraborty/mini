@@ -2,7 +2,7 @@
 <link href="feedback.css" rel="stylesheet">
 
 <title>FEEDBACK FORM</title>
-<b><a style="float:left; font-size:30px; color:blue;" href="http://localhost/subh/mail/homepage.php">HOME</a></b><br>
+<b><a style="float:left; font-size:30px; color:blue;" href="index.php">HOME</a></b><br>
 
 <h1><center><font size="20px"> <b>FEEDBACK FORM :)</b></font></center></h>
 <body>
