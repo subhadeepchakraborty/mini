@@ -152,7 +152,7 @@ document.getElementById("right1").style.display="block";
 
 </script>
 <body >
-  <b><a style="float:left; font-size:30px; color:white;" href="http://localhost/subh/mail/homepage.php">HOME</a></b><br>
+  <b><a style="float:left; font-size:30px; color:white;" href="index.php">HOME</a></b><br>
 
 <div id="ma">
 <div style="height:50px;  margin-top: 0px;
