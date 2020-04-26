@@ -80,7 +80,7 @@ PAN:{$pan}<br><br>
 <img src="eventoo1.png" width="200px" height="200px"/><img src="sign.png" width="200px" height="150px"/>
 EOD;
 
-$pdf->writeHTML($html);
+$pdf->writeHTML('<h1>asfsa</h1>');
 while( ob_get_level() ) {
     ob_end_clean();
 }
