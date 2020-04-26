@@ -49,7 +49,7 @@ text-decoration: underline;
 <br><br><br>
 <div id="last">
   <input id="button"  value="ADD" type="submit" />
-  <a href="https://test0011114.herokuapp.com/event.php" ><input id="button"  value="ADD ANOTHER" type="button" /></a>
+  <a href="admin.php" ><input id="button"  value="ADD ANOTHER" type="button" /></a>
 </b>
 </div>
 </form>
