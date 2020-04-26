@@ -219,10 +219,10 @@ if(d.toLocaleDateString()>=date1.toLocaleDateString() && d.toLocaleDateString()<
 
 <?php
 if (isset($_POST['but']) ) {
-$username="root";
-$servername="localhost";
-$password="admin";
-$dbname="event";
+$username="Vn6HI9swkt";
+$servername="remotemysql.com";
+$password="8YEUg3HjYl";
+$dbname="Vn6HI9swkt";
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);
 
@@ -294,7 +294,7 @@ else {
 
 
 <footer>
-  <u><b><a href="about.html">ABOUT US</a></b></u>
+  <u><b><a href="about.php">ABOUT US</a></b></u>
 </footer>
 </body>
 
