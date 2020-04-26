@@ -70,10 +70,10 @@ text-decoration: underline;
 //$username="qsMyHkfpFx";
 //$password="AtMdtojawW";
 //$dbname="qsMyHkfpFx";
-$servername="localhost";
-$username="root";
-$password="admin";
-$dbname="event";
+$username="Vn6HI9swkt";
+$servername="remotemysql.com";
+$password="8YEUg3HjYl";
+$dbname="Vn6HI9swkt";
 error_reporting(0);
 $conn=mysqli_connect($servername,$username,$password,$dbname);
 
