@@ -82,6 +82,6 @@ EOD;
 
 $pdf->writeHTML($html);
 ob_end_clean();
-$pdf->Output('test.pdf', 'I');
+$pdf->Output('test.pdf', 'D');
 }
 ?>
