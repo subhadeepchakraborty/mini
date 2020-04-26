@@ -81,7 +81,9 @@ PAN:{$pan}<br><br>
 EOD;
 
 $pdf->writeHTML($html);
-//ob_end_clean();
-$pdf->Output('test.pdf', 'IF');
+while( ob_get_level() ) {
+    ob_end_clean();
+}
+$pdf->Output('test.pdf', 'I');
 }
 ?>
