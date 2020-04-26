@@ -13,7 +13,7 @@ text-decoration: underline;
 <meta name="viewport" content="width=device-width, initial-scale=1.0" /> </head>
 <body >
   <h3>
-  <right><a href="http://localhost/subh/login.php">LOG OUT</right></a></h3>
+  <right><a href="login.php">LOG OUT</right></a></h3>
 <center>
 <div id="block">
   <h1>
