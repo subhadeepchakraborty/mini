@@ -43,7 +43,7 @@ PAN NO. :&nbsp<input type="number" name="pan"><br><br></font>
 
 </html>
 <?php
-require('/path/to/tcpdf.php');
+require('tcpdf.php');
 if (isset($_POST['submit']) ) {
 // create new PDF document
 $pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);
@@ -80,10 +80,10 @@ PAN:{$pan}<br><br>
 <img src="eventoo1.png" width="200px" height="200px"/><img src="sign.png" width="200px" height="150px"/>
 EOD;
 
-$pdf->writeHTML('<h1>asfsa</h1>');
-while( ob_get_level() ) {
+$pdf->writeHTML($html);
+
     ob_end_clean();
-}
+
 $pdf->Output('test.pdf', 'I');
 }
 ?>
