@@ -2,7 +2,7 @@
 
   session_start();
 
-$conn=mysqli_connect('localhost','root','admin','register');
+$conn=mysqli_connect('remotemysql.com','Vn6HI9swkt','8YEUg3HjYl','register');
 
 $user =$_POST['username'];
 $pw=$_POST['password'];
