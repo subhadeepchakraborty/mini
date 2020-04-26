@@ -198,7 +198,7 @@ if (isset($_POST['butt']) ) {
   session_start();
   header('location:login.php');
 
-$conn=mysqli_connect('remotemysql.com','Vn6HI9swkt','8YEUg3HjYl','register');
+$conn=mysqli_connect('remotemysql.com','Vn6HI9swkt','8YEUg3HjYl','Vn6HI9swkt');
 
 $firstname =$_POST['firstname'];
 $lastname=$_POST['lastname'];
