@@ -268,7 +268,7 @@ ENTRY TYPE OF EVENT:<?php echo $entry;?><br><br>
 PLACE:<?php echo $place;?><br>
 <input type='button' value="close" data-target="fetch" onclick="document.getElementById('<?php echo $main['ID'] ?>').style.visibility='collapsre';"  onmousedown=" document.getElementById('<?php echo $main['ID'] ?>').style.display='none';"/>
 <br>
-<a href="http://localhost/subh/index.php"><input type='button' value="TICKETS" /></a>
+<a href="ticket.php"><input type='button' value="TICKETS" /></a>
 
 </div>
 
