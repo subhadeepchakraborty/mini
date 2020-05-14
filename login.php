@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <style>
 #main
 {
@@ -131,6 +133,45 @@ border: 5px solid white;
   width:244px;
 }
 
+@media screen and (max-width: 800px)
+{
+body
+{
+
+  height:1000px;
+  width:100%;
+}
+
+#right1{
+width:500px;
+height: auto;
+position: relative;
+margin-top:-330px;
+}
+#right{
+width:500px;
+height: auto;
+position: relative;
+margin-top:100px;
+
+}
+#left{
+
+  display: none;
+}
+#do{
+float:left;
+width: 100px;
+
+  }
+  #bt1,#bt2
+  {
+    width:200px;
+    float:left;
+    text-align: center;
+
+  }
+}
 
 
 </style>
