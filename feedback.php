@@ -1,6 +1,5 @@
 <html>
 <link href="feedback.css" rel="stylesheet">
- <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
 <title>FEEDBACK FORM</title>
 <b><a style="float:left; font-size:30px; color:blue;" href="index.php">HOME</a></b><br>
