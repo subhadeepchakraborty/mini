@@ -177,7 +177,7 @@ margin-right:20px;
 
 }
 @media screen and (max-width: 800px) {
-  #l,#cities,#Event_type,input[type='date'] {
+  #cities,#Event_type,input[type='date'] {
     width:150px;
     align-items: center;
   }
@@ -190,5 +190,8 @@ float:left;
   {
     font-size: 10px;
   }
+  #l,#r
+  {
+  display:none;}
 }
 
