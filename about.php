@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <link href=".css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <head>
 
 </head>
@@ -68,6 +70,16 @@ img
 {
 margin-left: 520px;
 
+}
+  @media screen and (max-width: 800px) {
+
+#about,#terms{
+
+  font-size: 10px;
+  border:0px;
+  width: 90%;
+  margin: 0px;
+  float:left;
 }
 </style>
 <body >
