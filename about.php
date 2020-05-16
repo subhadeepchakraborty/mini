@@ -110,7 +110,7 @@ Current Collaborators:
 For any suggestions,queries,submit an event or just to say Hi! write to us at csubh143@gmail.com.
 </div>
 
-<center><img width="1000px" height="250px" src="eventoo.png" /></center>
+<center><img width="1000px" height="250px" src="eventoo1.png" /></center>
 <br><center><div id="quote"><b><p>Best Viewed <i>without</i> Internet Explorer</b></p></center>
 </div>
 
