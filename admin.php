@@ -1,11 +1,21 @@
-<style>
 
+<style>
+@media screen and (max-width: 800px)
+{
+#t1{
+
+  width: 60%;
+}
+
+
+}
 h3
 {
 font-weight: bold;
 color: red;
 text-decoration: underline;
-  }</style>
+  }
+</style>
 <!DOCTYPE html>
 <html>
 <link href="admin.css" rel="stylesheet">
