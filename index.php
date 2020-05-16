@@ -16,10 +16,15 @@ width: 80%;
 height: 40px;
 }
 #img1{
-  float:left;
 height:120px;
-width:45%;
-padding-bottom:40px;
+
+}
+#im
+{
+margin-left: 0px;
+float:left;
+height:150px;
+width:35%;
 
 }
 
