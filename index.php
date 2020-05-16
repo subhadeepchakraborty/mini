@@ -1,4 +1,5 @@
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <head>
 <center>
@@ -177,15 +178,117 @@ margin: 5%;
 text-align: justify;
 
 }
+@media screen and (max-width:600px) {
+  #ma{
+    width:auto;
+    align-items: center;
+  }
+  #img1
+  {
+    width:90%;
+    margin-left: auto;
+
+  }
+#im{
+border: 0px solid red;
+height:100px;
+width:100%;
+float: center;
+}
+#image
+{
+height: 250px;
+margin-top: 20px;
+}
+#righthead
+{
+  height: 50px;
+  width:100%;
+}
+body{
+  margin: 0px;
+}
+li{
+width: 5px;
+padding: 3px;
+margin: 25px;
+font-size: 15px;
+display:table-cell;
+
+}
+#categories
+{
+width:90%;
+height: auto;
+float: left;
+margin-right: 10%;
+}
+#headdown
+{
+height:300px;
+}
+#inner{
+display:block;
+width:100%;
+height: 120px;
+
+}
+#mar1{
+display: none;}
+ul{
+height:200px;
+width:auto;
+margin:0px;
+float: left;
+align-items: stretch;
+display: ;
+}
+#why
+{
+  border: 0px;
+margin-top: 800px;
+font-size: 15px;
+}
+#lo
+{
+  font-size: 20px;
+
+}
+#down1
+{
+
+}
+#down
+{
+  font-size: 7px;
+  overflow-x: scroll;
+  border-width: 2px;
+text-align: left;
+width:90%;
+}
+#footer
+{
+  font-size:10px;
+
+
+}
+#open
+{
+float:right;
+width: 200px;
+}
+}
 </style>
 
 <body  >
+
   <div id="ma">
+
   <div id="head">
 
-<div id="righthead">
+<div id="righthead"><div id="open"></div>
   <div id="img1">
-   <img   src="eventoo.png"/>
+   <img  id="im" src="logo.png" /><div >
 </div>
   <strong>
 <font size="4px"><ul id="ul1" >
@@ -195,7 +298,6 @@ text-align: justify;
 <a href="about.php"><li>ABOUT</li></a>
 <a href="login.php"><li>SIGN UP</li></a>
 <a href="MESSAGE.php"><li>ADMIN </li></a>
-
 
 </ul>
 </strong>
@@ -222,15 +324,15 @@ text-align: justify;
 </div>
 
 
-<div id="why"><center><font size="40px;">why we are??</center>  </font><br>
+<div id="why"><center><font size="30px;"><p id="lo">why we are??</p></center>  </font><br>
   Webapp is application program that is stored on a remote server and delivered over internet through a browser interface. In computing
   ,a web application or web app is a client-server computer program which the client includes to run in a web browser.<br><br>
   Our project involves to have admin panel for event entry. User can also suggest event entry by passing it to admin and later admin can decide event should be added or not.
    Likewise assurance security is to be given to client and admin by giving them register and login page etc.
-   <br><br> <center><font size="20px" color="blue">- by developers</center>  </font>
+   <br><br> <center><font size="10px" color="blue"><p id="lo">- by developers</center></p>  </font>
 </div>
 <br><br><br>
-<marquee width="1400px" direction="left" scrollamount="15" loop="yes" ><img src="1.jfif" id="mar">&nbsp<img src="2.jfif" id="mar"><img src="3.jfif" id="mar"><img src="5.jfif" id="mar"><img id="mar" src="4.jfif">
+<marquee width="1400px" id="mar1" direction="left" scrollamount="15" loop="yes" ><img src="1.jfif" id="mar">&nbsp<img src="2.jfif" id="mar"><img src="3.jfif" id="mar"><img src="5.jfif" id="mar"><img id="mar" src="4.jfif">
 <img src="6.jfif" id="mar"><img src="7.jfif" id="mar"><img src="8.jfif" id="mar"><img src="9.jfif" id="mar"><img id="mar" src="4.jfif">
 <img src="101.jfif" id="mar"><img src="102.jfif" id="mar"><img src="103.jfif" id="mar"><img src="104.jfif" id="mar">
 
@@ -239,29 +341,29 @@ text-align: justify;
 <div id="down1">
 <div id="down">
 
-<center><b><font size="15px"> GOVERNMENT</font><b></center>
+<center><b><font size="15px"><p id="lo"> GOVERNMENT</p></font><b></center>
 <br>
-<p>public sector organizations use EVENTO event management software to reduce manual taks,
+<p id="lo">public sector organizations use EVENTO event management software to reduce manual taks,
 streamline administrative ,process while helping increase event attendance.</p></div>
 <div id="down">
-<center><b><font size="15px"> EDUCATION</font><b></center>
+<center><b><font size="15px"> <p id="lo">EDUCATION</p></font><b></center>
 <br>
-<p>EVENTO management software enables education provider to plan all types of events,from courses and workshops with few ateendes
+<p id="lo">EVENTO management software enables education provider to plan all types of events,from courses and workshops with few ateendes
 to conference with thousand of invites.</p></div>
 <div id="down">
-<center><b><font size="15px"> ASSOCIATION</font><b></center>
+<center><b><font size="15px"> <p id="lo">ASSOCIATION</p></font><b></center>
 <br>
-<p>Integrate membership management software to help associations and other membership
+<p id="lo">Integrate membership management software to help associations and other membership
 based organization manage their events and membership in a single solution.</p></div>
 <div id="down">
-<center><b> <font size="15px">MEETING PLANNER</font><b></center>
+<center><b> <font size="15px"><p id="lo">MEETING PLANNER</p></font><b></center>
 <br>
-<p>Become more efficiently and grow your business by automating event planning process to quickly plan simple
+<p id="lo">Become more efficiently and grow your business by automating event planning process to quickly plan simple
 or complex events on behalf of your clients.</p></div>
 <div id="down">
-<center><b> <font size="15px"> CORPORATE AND FINANCE SERVICES</font><b></center>
+<center><b> <font size="15px"><p id="lo"> CORPORATE AND FINANCE SERVICES</p></font><b></center>
 <br>
-<p>Navigate every aspect of your event planning as simply and efficiently as possible with
+<p id="lo">Navigate every aspect of your event planning as simply and efficiently as possible with
  EVENTO easy yo use event management software </p></div>
 
 </div>
