@@ -137,22 +137,33 @@ border: 5px solid white;
 {
 body
 {
-
+ background:lightblue;
   height:1000px;
   width:100%;
+  margin: 0px;
 }
+#ma {
+  width: auto;
+}
+#in
+{
+width: 340px;
 
+}
+}
 #right1{
-width:500px;
+width:auto;
 height: auto;
-position: relative;
 margin-top:-330px;
+position: relative;
+
 }
 #right{
-width:500px;
+width:auto;
 height: auto;
 position: relative;
 margin-top:100px;
+margin-left: 0px;
 
 }
 #left{
@@ -160,17 +171,23 @@ margin-top:100px;
   display: none;
 }
 #do{
-float:left;
-width: 100px;
-
+float:center;
+width: auto;
+margin-top: 0px;
+  }
+  a{
+    display: none;
   }
   #bt1,#bt2
   {
     width:200px;
-    float:left;
+    float:center;
     text-align: center;
 
   }
+
+  #main{width:190%;
+
 }
 
 
