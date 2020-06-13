@@ -215,15 +215,21 @@ body{
 }
 li{
 width: 5px;
-padding: 3px;
-margin: 25px;
+padding: 5px;
+margin: 30px;
 font-size: 15px;
 display:contents;
 
 }
   #ul1
   {
-  height:auto;}
+  height:auto;
+    width: auto;
+margin-right: 35%;
+float: left;
+align-items: stretch;
+display: contents;
+  }
 #categories
 {
 width:90%;
