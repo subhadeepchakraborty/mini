@@ -225,7 +225,7 @@ display:contents;
   {
   height:auto;
     width: auto;
-margin-right: 35%;
+margin-right: 45%;
 float: left;
 align-items: stretch;
 display: contents;
