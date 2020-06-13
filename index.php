@@ -218,9 +218,12 @@ width: 5px;
 padding: 3px;
 margin: 25px;
 font-size: 15px;
-display:table-cell;
+display:contents;
 
 }
+  #ul1
+  {
+  height:auto;}
 #categories
 {
 width:90%;
