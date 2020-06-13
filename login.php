@@ -150,7 +150,7 @@ body
 width: 340px;
 
 }
-}
+
 #right1{
 width:auto;
 height: auto;
@@ -186,7 +186,7 @@ margin-top: 0px;
 
   }
 
-  #main{width:190%;
+  #main{width:190%;}
 
 }
 
