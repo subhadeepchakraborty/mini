@@ -223,7 +223,7 @@ display:contents;
 }
   #ul1
   {
-  height:auto;
+  height:200px;
     width: auto;
 margin-right: 45%;
 float: left;
